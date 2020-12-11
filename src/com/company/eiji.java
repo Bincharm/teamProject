@@ -1,4 +1,4 @@
 package com.company;
 
-public class elhan2 {
+public class eiji {
 }
